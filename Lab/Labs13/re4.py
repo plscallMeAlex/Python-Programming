@@ -1,0 +1,2 @@
+def cross(length, n):
+    
